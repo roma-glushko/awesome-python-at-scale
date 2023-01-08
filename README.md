@@ -17,7 +17,7 @@ experience and resource on how to write large scale and effective Python applica
 
 ### Frameworks
 
-* [Hyx]()
+* [Hyx - Lightweight fault tolerant primitives for your modern asyncio Python microservices](https://github.com/roma-glushko/hyx)
 * [tooz - centralizing the most common distributed primitives like group membership protocol, lock service and leader election by providing a coordination API helping developers to build distributed applications](https://github.com/openstack/tooz)
 
 ### Databases
