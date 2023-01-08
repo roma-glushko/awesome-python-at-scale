@@ -1,6 +1,6 @@
 # Awesome Python on Scale
 
-We are all love Pytho nand like to work with it ❤️
+We are all love Python and like to work with it ❤️
 
 As any language, Python has its own specific when it comes to running it effectively on scale.
 
