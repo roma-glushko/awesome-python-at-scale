@@ -11,6 +11,24 @@ experience and resource on how to write large scale and effective Python applica
 
 * [Instagram Engineering](https://instagram-engineering.com/)
 * [Reddit Engineering](https://www.reddit.com/r/RedditEng/)
+* [Dropbox Engineering](https://dropbox.tech/)
+
+## Open Source
+
+### Frameworks
+
+* [Hyx]()
+* [tooz - centralizing the most common distributed primitives like group membership protocol, lock service and leader election by providing a coordination API helping developers to build distributed applications](https://github.com/openstack/tooz)
+
+### Databases
+
+* [gnocchi - time series database](https://github.com/gnocchixyz/gnocchi)
+* [EdgeDB - a graph-relational database](https://github.com/edgedb/edgedb)
+
+### Message Queues
+
+* [rq - a simple Python library for queueing jobs and processing them in the background with workers baked by Redis](https://github.com/rq/rq)
+* [Celery - a distributed customizable high-reliable task queue that supports Redis, RabbitMQ, Amazon SQS and other backends](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)
 
 ## Books
 
